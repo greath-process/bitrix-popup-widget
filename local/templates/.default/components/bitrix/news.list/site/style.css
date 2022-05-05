@@ -1,0 +1,6 @@
+.sites__item{
+	max-width: 608px !important;
+}
+.sites__name{
+	min-width: 150px;
+}
